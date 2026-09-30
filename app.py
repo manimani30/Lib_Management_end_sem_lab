@@ -1,0 +1,5 @@
+'print("Library Management System v0.1")' 
+'def login(username, password):' 
+'    if username == "admin" and password == "secret":' 
+'        return True' 
+'    return False' 
